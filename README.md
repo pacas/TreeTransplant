@@ -34,16 +34,6 @@ By right-clicking with a tree selected or using the flip button in the bottom ri
 Using the close button the bottom right or hitting your exit key on your keyboard (default escape) 
 you can close out of this menu and return back in front of Robin.
 
-## Versions
-
-See [releases page](https://github.com/LeonBlade/TreeTransplant/releases).
-
 ## License
 
 GPL-3.0
-
-## See also
-
-* [Nexus mods](http://www.nexusmods.com/stardewvalley/mods/1342/)
-* [Discussion thread](http://community.playstarbound.com/threads/treetransplant.135549)
-* [Chucklefish Mod](https://community.playstarbound.com/resources/tree-transplant.5485/)

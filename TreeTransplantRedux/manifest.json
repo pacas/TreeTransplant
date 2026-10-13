@@ -1,0 +1,11 @@
+{
+  "Name": "Tree Transplant Redux",
+  "Author": "LeonBlade, pacas",
+  "Version": "1.1.0",
+  "Description": "Allows you to transplant trees in game. Works with vanilla and modded wild/fruit trees.",
+  "UniqueID": "TreeTransplantRedux",
+  "EntryDll": "TreeTransplant.dll",
+  "MinimumApiVersion": "4.0.0",
+  "MinimumGameVersion": "1.6.0"
+  "UpdateKeys": [ "Github:pacas/TreeTransplant" ]
+}
