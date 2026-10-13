@@ -6,6 +6,6 @@
   "UniqueID": "TreeTransplantRedux",
   "EntryDll": "TreeTransplant.dll",
   "MinimumApiVersion": "4.0.0",
-  "MinimumGameVersion": "1.6.0"
+  "MinimumGameVersion": "1.6.0",
   "UpdateKeys": [ "Github:pacas/TreeTransplant" ]
 }
